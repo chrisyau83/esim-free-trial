@@ -4,8 +4,6 @@ Get a real **1 GB travel data eSIM free for 3 days** with the uPhone eSIM Free T
 
 [**Claim the eSIM Free Trial**](https://uphone.com/try-esim-free?ref=CHRISYAU&sub1=github-esim-free-trial&utm_source=github&utm_medium=referral&utm_campaign=free-esim-trial)
 
-> **Affiliate disclosure:** The link above is an affiliate link. We may earn a commission after an eligible paid conversion, at no extra cost to you.
-
 ![Traveler activating an eSIM on a phone at an airport](assets/free-esim-airport-hero.webp)
 
 ---

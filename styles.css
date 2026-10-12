@@ -106,6 +106,28 @@ h3 { margin-bottom: 8px; font-size: 1.2rem; line-height: 1.2; }
 .check-list strong { margin-bottom: 8px; }
 .check-list small { color: var(--ink-soft); font-size: 0.9rem; }
 
+.comparison { padding: 116px 0; background: #eef4ef; }
+.comparison-heading { margin-bottom: 42px; }
+.ranking-labels, .ranking-row { display: grid; grid-template-columns: 0.8fr 0.8fr 1.4fr; gap: 34px; }
+.ranking-labels { padding: 0 22px 12px; color: var(--ink-soft); text-transform: uppercase; font-size: 0.68rem; font-weight: 800; letter-spacing: 0.1em; }
+.ranking-list { margin: 0; padding: 0; list-style: none; border-top: 1px solid #bfcac2; }
+.ranking-row { align-items: center; min-height: 128px; padding: 22px; border-bottom: 1px solid #bfcac2; }
+.ranking-winner { min-height: 154px; background: var(--green-dark); color: var(--white); }
+.rank-provider { display: flex; align-items: center; gap: 18px; min-width: 0; }
+.rank-provider > span:last-child, .rank-offer { display: flex; flex-direction: column; min-width: 0; }
+.rank-number { flex: 0 0 auto; color: var(--green); font-family: Georgia, "Times New Roman", serif; font-size: 2rem; line-height: 1; }
+.ranking-winner .rank-number { color: var(--mint); }
+.rank-provider strong { font-size: 1.18rem; }
+.rank-provider small, .rank-offer span { margin-top: 4px; color: var(--ink-soft); font-size: 0.8rem; }
+.ranking-winner .rank-provider small, .ranking-winner .rank-offer span { color: rgba(255, 255, 255, 0.64); }
+.rank-offer strong { font-size: 1.08rem; }
+.rank-detail { display: flex; align-items: center; justify-content: space-between; gap: 22px; color: var(--ink-soft); font-size: 0.9rem; }
+.ranking-winner .rank-detail { color: rgba(255, 255, 255, 0.78); }
+.rank-detail .button { flex: 0 0 auto; min-height: 42px; padding-inline: 15px; font-size: 0.82rem; }
+.comparison-note { display: flex; justify-content: space-between; gap: 42px; margin-top: 24px; color: var(--ink-soft); font-size: 0.76rem; }
+.comparison-note p { max-width: 760px; margin: 0; }
+.comparison-note > span { max-width: 270px; text-align: right; }
+
 .process { padding: 116px 0 124px; }
 .section-heading { display: grid; grid-template-columns: 1.4fr 0.6fr; gap: 80px; align-items: end; margin-bottom: 58px; }
 .section-heading h2 { max-width: 750px; margin-bottom: 0; }
@@ -198,6 +220,9 @@ details > p { max-width: 720px; margin: -6px 48px 26px 0; color: inherit; opacit
   .hero-copy { width: min(620px, 78vw); }
   .readiness-grid, .install-grid, .trouble-grid, .faq-grid { grid-template-columns: 1fr; gap: 48px; }
   .section-heading { grid-template-columns: 1fr; gap: 24px; }
+  .ranking-labels, .ranking-row { grid-template-columns: 0.8fr 0.8fr 1.2fr; gap: 22px; }
+  .ranking-winner { align-items: start; }
+  .ranking-winner .rank-detail { align-items: flex-start; flex-direction: column; }
   .step-copy { grid-template-columns: 0.7fr 1.3fr; }
   .offer-strip { align-items: flex-start; padding: 34px; }
   .install-grid { max-width: 700px; }
@@ -226,9 +251,18 @@ details > p { max-width: 720px; margin: -6px 48px 26px 0; color: inherit; opacit
   .hero-actions .button { width: 100%; }
   .hero-next { display: none; }
   .affiliate-note { font-size: 0.7rem; }
-  .readiness, .process, .install, .troubleshooting, .faq { padding: 76px 0; }
+  .readiness, .comparison, .process, .install, .troubleshooting, .faq { padding: 76px 0; }
   .check-list { grid-template-columns: 1fr; }
   .check-list li, .check-list li:nth-child(even) { min-height: 0; padding: 20px 0; border-right: 0; }
+  .comparison-heading { margin-bottom: 32px; }
+  .ranking-labels { display: none; }
+  .ranking-row { grid-template-columns: 1fr; gap: 15px; min-height: 0; padding: 25px 0; }
+  .ranking-winner { margin-inline: -14px; padding: 26px 14px; }
+  .rank-offer { padding-left: 58px; }
+  .rank-detail { align-items: flex-start; flex-direction: column; padding-left: 58px; }
+  .rank-detail .button { width: 100%; }
+  .comparison-note { flex-direction: column; gap: 12px; }
+  .comparison-note > span { max-width: none; text-align: left; }
   .step { grid-template-columns: 40px 1fr 24px; gap: 14px; align-items: start; padding: 26px 0; }
   .step-copy { grid-template-columns: 1fr; gap: 8px; }
   .step-copy h3 { font-size: 1.08rem; }

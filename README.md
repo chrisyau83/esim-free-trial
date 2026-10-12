@@ -25,6 +25,26 @@ Always review the current offer and eligibility terms on uPhone before activatin
 
 ---
 
+## Best eSIM Free Trial providers ranked
+
+These offers are ranked for an international traveler seeking meaningful free data, broad travel coverage, straightforward eligibility, and clear terms. Provider-published offers were reviewed on October 13, 2026.
+
+| Rank | Provider | Free offer | Best for / important limit |
+| --- | --- | --- | --- |
+| **#1** | **uPhone** | **Up to 1 GB**, one data eSIM, 100+ countries, 3 days | Best match for a 1 GB eSIM Free Trial. $0 for 3 days, then $9.99/month unless cancelled. |
+| #2 | Roamless | Up to 500 MB through $1.25 trial credit, 200+ destinations | Flexible, no-expiry starter credit for new users; at most half of uPhone's trial data. |
+| #3 | Firsty Free | 20 MB per ad, up to 360 MB a day, 176 countries | Basic maps and messages; ad-supported, 1 Mbps, and data batches last 7 days. |
+| #4 | GigSky | 100 MB, 100+ countries | Straightforward test with no card required, but a much smaller allowance. |
+| #5 | Jetpac Eterna | 100 MB per trip plus selected essential-app access | Lightweight repeat-trip backup; program and destination terms apply. |
+| #6 | T-Mobile Trial | 30 days of unlimited high-speed data | U.S./Puerto Rico network test for eligible non-T-Mobile users; not for international travel. |
+| #7 | Verizon Free Trial | Up to 100 GB for 30 days | U.S. network test with no card; not an international travel eSIM. |
+
+No competitor names above are linked. The only offer links in this guide go to uPhone through the disclosed affiliate URL.
+
+[**Get the #1 1 GB eSIM Free Trial**](https://uphone.com/try-esim-free?ref=CHRISYAU&sub1=github-esim-free-trial&utm_source=github&utm_medium=referral&utm_campaign=free-esim-trial)
+
+---
+
 ## How to get the eSIM Free Trial
 
 ### 1. Open the tracked uPhone offer
@@ -121,6 +141,10 @@ Settings > Connections > SIM manager > Add eSIM
 ---
 
 ## Frequently asked questions
+
+### Which provider offers a 1 GB eSIM Free Trial?
+
+uPhone Test Flight includes one real data eSIM with up to 1 GB for an eligible destination. It is free for 3 days and then continues at $9.99/month unless cancelled.
 
 ### Is the eSIM Free Trial really free?
 
